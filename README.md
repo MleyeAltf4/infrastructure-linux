@@ -31,7 +31,7 @@ Les captures détaillées sont disponibles dans le dossier [`captures/`](capture
 ---
 
 ## 📚 Rapport du projet
-📄 [Télécharger le rapport PowerPoint](rapport-infrastructure-linux.pptx)  
+📄 [Télécharger le rapport PowerPoint](Rapport-projet.pptx)  
 📄 [Télécharger le rapport PDF](rapport-infrastructure-linux.pdf)
 
 ---
