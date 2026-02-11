@@ -2,7 +2,7 @@
 
 ## 📌 Contexte
 Ce projet a été réalisé dans le cadre de ma Licence 3 Réseaux, Systèmes et Sécurité à Supdeco.  
-L’objectif était de concevoir et déployer une infrastructure réseau interne pour l’entreprise fictive **KaneProTechnology**, avec des services essentiels pour plusieurs départements.
+L’objectif était de concevoir et déployer une infrastructure réseau interne pour l’entreprise  **KaneProTechnology**, avec des services essentiels pour plusieurs départements.
 
 ---
 
